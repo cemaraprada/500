@@ -1,0 +1,73 @@
+{"config_name": "500 SPOT: SOLUSDT",
+ "logging_level": 0,
+ "long": {"enabled": true,
+          "eprice_exp_base": 1.618034,
+          "eprice_pprice_diff": 0.008092150358059828,
+          "grid_span": 0.12679218097212581,
+          "initial_qty_pct": 0.007767591802197763,
+          "markup_range": 0.007970768102688931,
+          "max_n_entry_orders": 10,
+          "min_markup": 0.005799064486475508,
+          "n_close_orders": 7,
+          "pbr_limit": 0.891,
+          "secondary_grid_spacing": 0.3510918097212581,
+          "secondary_pbr_allocation": 0.279},
+ "shrt": {"enabled": false,
+          "eprice_exp_base": 0.0,
+          "eprice_pprice_diff": 0.0,
+          "grid_span": 0.0,
+          "initial_qty_pct": 0.0,
+          "markup_range": 0.0,
+          "max_n_entry_orders": 0,
+          "min_markup": 0.0,
+          "n_close_orders": 0,
+          "pbr_limit": 0.0,
+          "secondary_grid_spacing": 0.0,
+          "secondary_pbr_allocation": 0}}
+
++--------------------------------------------------------+
+|                        Summary                         |
++------------------------------------+-------------------+
+| Metric                             | Value             |
++------------------------------------+-------------------+
+| Exchange                           | binance           |
+| Market type                        | spot              |
+| Symbol                             | SOLUSDT           |
+| No. days                           | 269.999           |
+| Starting balance                   | 1000.0            |
+| Final balance                      | 6436.28           |
+| Final equity                       | 6431.27           |
+| Net PNL + fees                     | 5436.28           |
+| Total gain percentage              | 543.6%            |
+| Average daily gain percentage      | 0.692%            |
+| Adjusted daily gain                | 0.00687612        |
+| Closest bankruptcy percentage      | 87.57%            |
+|                                    |                   |
+| Profit sum                         | 6535.05           |
+| Loss sum                           | 0.0               |
+| Fee sum                            | -1098.78          |
+| Lowest equity/balance ratio        | 0.690984          |
+| Biggest psize                      | 647.15            |
+| Price action closeness mean long   | 0.0131052         |
+| Price action closeness median long | 0.00749925        |
+| Price action closeness max long    | 0.535972          |
+| Average n fills per day            | 81.9558           |
+|                                    |                   |
+| No. fills                          | 22128.0           |
+| No. entries                        | 8131.0            |
+| No. closes                         | 13997.0           |
+| No. initial entries                | 4501.0            |
+| No. reentries                      | 3630.0            |
+|                                    |                   |
+| Mean hours between fills           | 0.481604          |
+| Max hours no fills (same side)     | 64.0861           |
+| Max hours no fills                 | 64.0861           |
+|                                    |                   |
+| Long                               | True              |
+| No. inital entries                 | 4501              |
+| No. reentries                      | 3630              |
+| No. normal closes                  | 13997             |
+| Mean hours stuck (long)            | 0.481604          |
+| Max hours stuck (long)             | 64.0861           |
+| PNL sum                            | 6535.054412000002 |
++------------------------------------+-------------------+

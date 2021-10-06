@@ -3,7 +3,7 @@
   
   market_type: spot
 
-  user: djemphol
+  user: user
 
   symbol: SOLUSDT
   latency_simulation_ms: 1000
